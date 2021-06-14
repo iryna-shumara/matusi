@@ -7,10 +7,16 @@ Welcome to matusi's documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-
+   karta
+   lekarzy
+   uslugi
+   rekrutacja
+   repititory
+   uroda
+   podrozy
 
 Indices and tables
 ==================
