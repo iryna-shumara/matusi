@@ -17,10 +17,3 @@
    repititory
    uroda
    podrozy
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
